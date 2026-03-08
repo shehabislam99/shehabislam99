@@ -1,3 +1,18 @@
+<img src="./banner/github_banner.png" alt="Hello world">
+
+<br/>
+
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Md Shehab Islam</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;Love+to+MERN+Stack+Technologies;JavaScript+Enthusiast;" alt="Typing SVG" /></a>
+  </ul>
+</div>
+
+<br/>
+
 <h1 align="center">Hi 👋, I'm Md Shehab Islam</h1>
 <h3 align="center">A passionate Full Stack developer(MERN) </h3>
 
