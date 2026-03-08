@@ -4,16 +4,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehabislam99&label=Profile%20views&color=0e75b6&style=flat" alt="shehabislam99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shehabislam99" target="blank"><img src="https://img.shields.io/twitter/follow/shehabislam99?logo=twitter&style=for-the-badge" alt="shehabislam99" /></a> </p>
+👋 Hi, I’m [https://github.com/shehabislam99](https://github.com/shehabislam99)
+🖥️ I’m currently working on React.js, Next.js, Html, CSS for frontend development.
+🗄️ Using Node.js, Express.js, MongoDB for the backend.
 
-- 🌱 I’m currently learning **Typescript**
+- 🛠️ I’m currently learning Typescript
 
-- 👨‍💻 All of my projects are available at [https://shehabislam99.netlify.app/](https://shehabislam99.netlify.app/)
+- 👨‍💻 All of my projects are available at My Portfolio https://shehabislam99.netlify.app/.
 
-- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**
+- 💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).
 
-- 📫 How to reach me **shihabkhanahab@gmail.com**
+- 📫 How to reach me shihabkhanahab@gmail.com.
 
-- 📄 Know about my experiences [https://shehabislam99.netlify.app/](https://shehabislam99.netlify.app/)
+- 📄 Know about my experiences https://www.linkedin.com/in/shehabislam99/.
 
 <h1 align="center">Hey 👋What's Up?</h1>
 
@@ -58,12 +61,3 @@
   <img src="https://github-profile-trophy.vercel.app?username=shehabislam99&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
