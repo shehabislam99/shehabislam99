@@ -1,4 +1,4 @@
-<img src="./banner/github_banner.png" alt="Hello world">
+<img src="./github banner.png" alt="Hello world">
 
 <br/>
 
@@ -7,24 +7,19 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Md Shehab Islam</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;Love+to+MERN+Stack+Technologies;JavaScript+Enthusiast;" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;Love+to+MERN+Stack+Technologies;" alt="Typing SVG" /></a>
   </ul>
 </div>
 
 <br/>
-
-<h1 align="center">Hi 👋, I'm Md Shehab Islam</h1>
-<h3 align="center">A passionate Full Stack developer(MERN) </h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehabislam99&label=Profile%20views&color=0e75b6&style=flat" alt="shehabislam99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shehabislam99" target="blank"><img src="https://img.shields.io/twitter/follow/shehabislam99?logo=twitter&style=for-the-badge" alt="shehabislam99" /></a> </p>
 # 💫 About Me:
 
 - 👋 Hi, I’m [https://github.com/shehabislam99](https://github.com/shehabislam99)
 
 - 🖥️ I’m currently working on React.js, Next.js, Html, CSS for frontend development.
-- 
+
 - 🗄️ Using Node.js, Express.js, MongoDB for the backend.
 
 - 🛠️ I’m currently learning Typescript
