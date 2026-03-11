@@ -28,7 +28,7 @@
 
 - 💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)
 
-- 📫 How to reach me [Email](shihabkhanahab@gmail.com).
+- 📫 How to reach me (shihabkhanahab@gmail.com).
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/mdshehabislam99/).
 
